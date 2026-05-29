@@ -8,6 +8,7 @@ Yudi Tira Nanda Adi Saputra
 
  
 https://youtu.be/lRbP8LNZPcw?si=ubMDkeoNteLDEgX2
+
  Deskripsi Proyek
 Proyek ini merupakan implementasi embedded system berupa Robot Line Follower yang dirancang dan difabrikasi menggunakan PCB kustom. Robot menggunakan mikrokontroler ATmega328P (kompatibel Arduino Uno) sebagai otak utama untuk memproses sinyal dari 4 sensor inframerah (IR) dan mengatur gerakan dua motor DC melalui driver motor L293D.
 Fitur Utama
